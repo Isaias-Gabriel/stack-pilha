@@ -1,0 +1,16 @@
+C:\Users\isaias\www\DIO\gft_bootcamp\dotnet_c_sharp\FirstConsoleApplication\bin\Debug\net5.0\FirstConsoleApplication.exe
+C:\Users\isaias\www\DIO\gft_bootcamp\dotnet_c_sharp\FirstConsoleApplication\bin\Debug\net5.0\FirstConsoleApplication.deps.json
+C:\Users\isaias\www\DIO\gft_bootcamp\dotnet_c_sharp\FirstConsoleApplication\bin\Debug\net5.0\FirstConsoleApplication.runtimeconfig.json
+C:\Users\isaias\www\DIO\gft_bootcamp\dotnet_c_sharp\FirstConsoleApplication\bin\Debug\net5.0\FirstConsoleApplication.runtimeconfig.dev.json
+C:\Users\isaias\www\DIO\gft_bootcamp\dotnet_c_sharp\FirstConsoleApplication\bin\Debug\net5.0\FirstConsoleApplication.dll
+C:\Users\isaias\www\DIO\gft_bootcamp\dotnet_c_sharp\FirstConsoleApplication\bin\Debug\net5.0\ref\FirstConsoleApplication.dll
+C:\Users\isaias\www\DIO\gft_bootcamp\dotnet_c_sharp\FirstConsoleApplication\bin\Debug\net5.0\FirstConsoleApplication.pdb
+C:\Users\isaias\www\DIO\gft_bootcamp\dotnet_c_sharp\FirstConsoleApplication\obj\Debug\net5.0\FirstConsoleApplication.csprojAssemblyReference.cache
+C:\Users\isaias\www\DIO\gft_bootcamp\dotnet_c_sharp\FirstConsoleApplication\obj\Debug\net5.0\FirstConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaias\www\DIO\gft_bootcamp\dotnet_c_sharp\FirstConsoleApplication\obj\Debug\net5.0\FirstConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\isaias\www\DIO\gft_bootcamp\dotnet_c_sharp\FirstConsoleApplication\obj\Debug\net5.0\FirstConsoleApplication.AssemblyInfo.cs
+C:\Users\isaias\www\DIO\gft_bootcamp\dotnet_c_sharp\FirstConsoleApplication\obj\Debug\net5.0\FirstConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\isaias\www\DIO\gft_bootcamp\dotnet_c_sharp\FirstConsoleApplication\obj\Debug\net5.0\FirstConsoleApplication.dll
+C:\Users\isaias\www\DIO\gft_bootcamp\dotnet_c_sharp\FirstConsoleApplication\obj\Debug\net5.0\ref\FirstConsoleApplication.dll
+C:\Users\isaias\www\DIO\gft_bootcamp\dotnet_c_sharp\FirstConsoleApplication\obj\Debug\net5.0\FirstConsoleApplication.pdb
+C:\Users\isaias\www\DIO\gft_bootcamp\dotnet_c_sharp\FirstConsoleApplication\obj\Debug\net5.0\FirstConsoleApplication.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\isaias\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\isaias\\.nuget\\packages"
+    ]
+  }
+}
